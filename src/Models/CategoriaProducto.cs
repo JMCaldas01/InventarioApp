@@ -7,7 +7,7 @@ namespace InventarioApp.Models
         Alimentos,
         Hogar,
         Deportes,
-        Libros,
+        Muebles,
         Otros
     }
 }
